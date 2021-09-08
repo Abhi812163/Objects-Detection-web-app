@@ -1,0 +1,38 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
+}
+
+.header{
+    padding-left: 50;
+    padding-right: 50;
+	color: black;
+    font-family: 'Yeon Sung';
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin-top: 80px;
+    background-color: grey;
+}
+
+.back_button{
+    background-color: grey;
+    margin-top: 20px;
+}
